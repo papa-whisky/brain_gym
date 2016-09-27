@@ -60,7 +60,7 @@ What is highest number of figs you can get to Capertown?
 
 ### Answer
 ```
-750
+500
 ```
 
 ## Question Six
